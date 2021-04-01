@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EtienneBauscher
 - 👀 I’m interested in Flutter Development
 - 🌱 I’m currently learning Docker, Kubernetes and Typescript.
-- 💞️ I’m looking to collaborate on antyhong Mobile Development
+- 💞️ I’m looking to collaborate on anything Mobile Development
 - 📫 How to reach me - bauschere@gmail.com
 
 <!---
