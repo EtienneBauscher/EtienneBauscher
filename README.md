@@ -4,8 +4,6 @@ I'm a software engineer with a strong focus on .NET backend development and Flut
 🔹 Backend: .NET 8, Database Encryption, Secure API Design<br>
 🔹 Frontend: Flutter, GoRouter, Encrypted Navigation<br>
 🔹 Principles: Scalable Solutions, Separation of Concerns, Pragmatic Refactoring<br>
-<br>
-Currently, I'm working on a business concept to provide oversight services for outsourced software projects, ensuring quality, transparency, and delivery.
 <br><br>
 🚀 Always exploring better ways to build robust, secure, and maintainable software.
 
