@@ -1,4 +1,4 @@
-👋 Hey there! I'm Etienne<br>
+👋 Hey there, I'm Etienne<br>
 I'm a software engineer with a strong focus on .NET backend development and Flutter frontend applications.<br>I prioritize secure data handling, leveraging encrypted database models and structured DTOs for clean and efficient architectures.
 
 🔹 Backend: .NET 8, Database Encryption, Secure API Design<br>
