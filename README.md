@@ -6,6 +6,9 @@ I'm a software systems engineer with a strong focus on .NET backend development 
 🔹 Principles: Scalable Solutions, Separation of Concerns, Pragmatic Refactoring, Clean Architecture<br>
 <br>
 🚀 Always exploring better ways to build robust, secure, and maintainable software.
+<br>
+<br>
+You can visit my personal portfolio at <a>https://jumpscar.com</a>
 
 <!---
 EtienneBauscher/EtienneBauscher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
